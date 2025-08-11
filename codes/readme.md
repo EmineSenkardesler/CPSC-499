@@ -1,0 +1,3 @@
+- /home/emine2/CPSC-499/codes/svr_gpr_partofDataAnalysis.ipynb --> this code includes svr, gpr part as cleaned. Also, it includes first preliminary results of first encoder-decoder study
+- /home/emine2/CPSC-499/codes/data_prep.ipynb --> this code includes the data preperation part which is merging the insurance and weather, removing the outliers etc. 
+- /home/emine2/CPSC-499/codes/data_analysis.ipynb --> this one includes the part that i first did for the poster. It includes the dirty code with resutls. 
